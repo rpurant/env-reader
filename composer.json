@@ -1,0 +1,18 @@
+{
+    "name": "spier/env-reader",
+    "description": "Reader for .env varialbles",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rajpu",
+            "email": "rajpurant19@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Spier\\EnvReader\\": "src/"
+        }
+    },
+    "require": {}
+}
