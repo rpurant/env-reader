@@ -10,9 +10,9 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "Spier\\EnvReader\\": "src/"
-        }
+        "classmap": [
+            "src/"
+        ]
     },
     "require": {}
 }
